@@ -63,6 +63,7 @@ I am a Full Stack Developer with a passion for crafting efficient and scalable s
 
 - **📧 Email:** [sachith.info2@gmail.com](mailto:sachith.info2@gmail.com)
 - **🌐 LinkedIn:** [linkedin.com/in/sachith-b-g](https://www.linkedin.com/in/sachith-b-g)
+- **🌐 Portfolio:** [bg-sachith.github.io/personal-portfolio](https://bg-sachith.github.io/personal-portfolio/)
 
 ---
 
